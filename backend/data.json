@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "uId": 0,
+      "name": "string",
+      "friends": [],
+      "planningTrips": [],
+      "prevTrips": [],
+      "inTrip": 0
+    }
+  ],
+  "trips": [
+    {
+      "tripId": 0,
+      "name": "Japanese Sakura Trip",
+      "location": "Japan",
+      "organiser": 0,
+      "members": [],
+      "startDate": "01/01/2022",
+      "endDate": "01/02/2022",
+      "activities": []
+    }
+  ]
+}
